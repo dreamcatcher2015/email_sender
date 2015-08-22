@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/dbs/mysql.py=utf-8
+encoding//src/dbs/pgsql.py=utf-8
+encoding//src/mails/run.py=utf-8
+encoding//src/mails/sendservice/DeleteMails.py=utf-8
+encoding//src/mails/sendservice/SendMails.py=utf-8
+encoding//src/mails/sendservice/SendMailsManager.py=utf-8
+encoding//src/mails/sendservice/SendMailsPool.py=utf-8
+encoding//src/mails/sendservice/SendMailsPool_backup.py=utf-8
+encoding//src/mails/thriftservice/client.py=utf-8
+encoding//src/mails/thriftservice/server.py=utf-8
+encoding//src/mails/utils/Logger.py=utf-8
+encoding//src/mails/utils/constants.py=utf-8
