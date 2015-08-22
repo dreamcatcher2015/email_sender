@@ -18,8 +18,8 @@ MAILS_PORT        = "5051"
 
 ###########邮件服务器相关配置##########
 MAIL_ATTACH_ROOT = '/home/mailfiles/'
-mail_from        = '506767306@qq.com'
-mail_password    = 'wfy311009060220'
+mail_from        = ''
+mail_password    = ''
 mail_smtp        = 'smtp.qq.com'
 mail_port        = 25
 
